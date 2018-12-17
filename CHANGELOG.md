@@ -1,3 +1,7 @@
+# 0.0.10
+
++ Fix issue on override meta in index.html target (from creatic)
+
 # 0.0.9
 
 + Improve support for Webpack 4
